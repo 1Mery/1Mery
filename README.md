@@ -3,7 +3,6 @@
 
 <p>
 I am a backend-focused developer passionate about building scalable systems and real-world applications.
-Currently working on a <b>Stock Trading Platform</b> project with features like order management, portfolio reporting, and external API integrations.
 </p>
 
 ---
@@ -11,9 +10,8 @@ Currently working on a <b>Stock Trading Platform</b> project with features like 
 ### 🚀 About Me
 
 * 💻 Focused on **Java & Spring Boot**
-* 📊 Building a **Stock Trading Platform (B2B)**
 * ⚙️ Interested in **System Design, Performance & Backend Architecture**
-* 📦 Learning **Redis, Docker & Microservices**
+* 📦 Learning **Redis,ELK, Docker & Microservices**
 
 ---
 
@@ -26,22 +24,8 @@ Currently working on a <b>Stock Trading Platform</b> project with features like 
 ### 🛠️ Tech Stack
 
 * Backend: Java, Spring Boot
-* Database: PostgreSQL, MSSQL
-* Tools: Docker, Git, Postman
-* Testing: Selenium, Cypress
-
----
-
-### 📌 Featured Project
-
-#### 📈 Stock Trading Platform
-
-* Order management system (buy/sell logic)
-* Portfolio report service (profit/loss calculation)
-* External API integration (real-time stock data)
-* EOD (End of Day) processes & cron jobs
-* Designed with layered architecture (Controller, Service, Repository)
-
+* Database: PostgreSQL
+* Tools: Docker, Git
 ---
 
 ### 📊 GitHub Stats

@@ -21,13 +21,6 @@ I am a backend-focused developer passionate about building scalable systems and 
 
 ---
 
-### 🛠️ Tech Stack
-
-* Backend: Java, Spring Boot
-* Database: PostgreSQL
-* Tools: Docker, Git
----
-
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=1mery&show_icons=true" />
